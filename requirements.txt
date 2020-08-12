@@ -1,0 +1,7 @@
+flask
+sklearn
+sklearn.preprocessing
+numpy
+itertools
+pickle
+sklearn.neural_network
