@@ -1,5 +1,4 @@
 flask
 sklearn
 numpy
-itertools
 pickle
