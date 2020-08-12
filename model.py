@@ -11,7 +11,7 @@ import numpy as np
 # In[3]:
 
 
-df=pd.read_csv('training.csv')
+df=pd.read_csv('Training.csv')
 
 
 # In[4]:
